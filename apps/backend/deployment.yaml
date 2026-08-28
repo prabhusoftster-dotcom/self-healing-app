@@ -27,7 +27,7 @@ spec:
 
       containers:
         - name: backend
-          image: rahamshaik/nodejsimage:1a6029d3136b60b9ab7024adb50a8a7064cd0077
+          image: ramachandraprabhur/zomato_new:4d1831f050c12e742830f9f313e5541161487c80 
 
           ports:
             - containerPort: 3000
